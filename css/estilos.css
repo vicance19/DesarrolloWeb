@@ -1,0 +1,49 @@
+* {
+    color: rgb(82, 206, 88);
+}
+
+
+
+p, span {
+    color: red;
+    width: 300px;
+}
+
+/**
+comentario
+*/
+
+h1 {
+    font-family: 'Tourney', cursive;
+    border: 1px solid black;
+    padding: 5px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-weight: bold;
+    color: gray;
+}
+
+section{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+#mi_párrafo {
+    color: blueviolet;
+    font-size: 25px;
+    border: 1px solid orange;
+}
+
+.estaesmiclase {
+    font-weight: bold;
+    color: orchid;
+}
+
+section p {
+    font-size: larger;
+    font-weight: 200px;
+}
